@@ -45,7 +45,7 @@ a{
 }
 
 .div1{
-    background-image: url("./image3/img1.jpeg");
+    background-image: url("image3/img1.jpeg");
     background-position: center;
     background-size: cover;
     width: 100%;
@@ -94,7 +94,7 @@ a{
     width: 45%;
     border-radius: 20px;
     margin-left: 3%;
-    background-image: url("./image3/i4.jpg");
+    background-image: url("image3/i4.jpg");
     margin-top: 3%;
     height: 60%;
     background-size: cover;
@@ -105,7 +105,7 @@ a{
     width: 45%;
     border-radius: 20px;
     margin-left: 3%;
-    background-image: url("./image3/Img.png");
+    background-image: url("image3/Img.png");
     margin-top: 3%;
     height: 60%;
     background-position: center;
@@ -157,7 +157,7 @@ a{
 .div4{
     width: 100%;
     height: 700px;
-    background-image: url("./image3/im.jpg");
+    background-image: url("image3/im.jpg");
     background-position: left;
    justify-content: center;
     display: flex;
@@ -214,7 +214,7 @@ a{
     border-radius: 15px;   
 }
 .div5{
-    background-image: url("./image3/img6.jpg");
+    background-image: url("image3/img6.jpg");
     background-color: #C4C4C4;
     background-size: cover;
     background-position: center;
@@ -247,7 +247,7 @@ a{
     
 }
 .div6-1{
-    background-image: url("./image3/img8.jpg");
+    background-image: url("image3/img8.jpg");
     background-position: center;
     background-size: cover;
     height: 25vh;
@@ -256,7 +256,7 @@ a{
     
 }
 .div6-2{
-    background-image: url("./image3/img7.jpg");
+    background-image: url("image3/img7.jpg");
     background-position: center;
     background-size: cover;
     height: 25vh;
@@ -265,7 +265,7 @@ a{
     margin-left: 2%;
 }
 .div6-3{
-    background-image: url("../maquette3/image3/img9.jpg");
+    background-image: url("image3/img9.jpg");
     background-position: center;
     background-size: cover;
     height: 25vh;
@@ -274,7 +274,7 @@ a{
     margin-left: 2%;
 }
 .div7{
-    background-image: url("../maquette3/image3/0.png");
+    background-image: url("image3/0.png");
     background-size: cover;
     background-position: center;
     border-radius: 15px;
@@ -369,7 +369,7 @@ hr{
 .pdiv1{
     height: 300px;
     width: 100%;
-    background-image: url("..//maquette3/image3/i2.png"), url('..//maquette3/image3/i.png');
+    background-image: url("image3/i2.png"), url('image3/i.png');
     background-position: left top, right top;
     background-size: 50% auto, 50% auto; 
     padding-top: 5%;
@@ -417,7 +417,7 @@ hr{
     margin-top: 2%;
 }
 .div4img{
-    background-image: url("../maquette3/image3/3.jpg");
+    background-image: url("image3/3.jpg");
     background-position: center;
     background-size: cover;
     height: 500px;
@@ -482,7 +482,7 @@ width: 60%;
     margin-left: 1%;
 }
 .im11{
-    background-image: url("..//maquette3/image3/Photo0.jpg");
+    background-image: url("image3/Photo0.jpg");
     background-size: cover;
     background-position: center;
     border-radius: 15px;
@@ -490,7 +490,7 @@ width: 60%;
     width: 80%;
 }
 .im12{
-    background-image: url("..//maquette3/image3/Image9.png");
+    background-image: url("image3/Image9.png");
     background-size: cover;
     background-position: center;
     border-radius: 15px;
@@ -498,7 +498,7 @@ width: 60%;
     width: 80%;
 }
 .im13{
-    background-image: url("..//maquette3/image3/Image8.png");
+    background-image: url("image3/Image8.png");
     background-size: cover;
     background-position: center;
     border-radius: 15px;
@@ -506,7 +506,7 @@ width: 60%;
     width: 80%;
 }
 .im14{
-    background-image: url("..//maquette3/image3/Image7.png");
+    background-image: url("image3/Image7.png");
     background-size: cover;
     background-position: center;
     border-radius: 15px;
@@ -526,7 +526,7 @@ width: 60%;
     color: white;
 }
 .pdiv7{
-    background-image: url("../maquette3/image3/0.png");
+    background-image: url("image3/0.png");
     background-size: cover;
     background-position: center;
     border-radius: 15px;
