@@ -1,0 +1,554 @@
+#container{
+    display: flex;
+    width: 8000px;
+    justify-content: space-between;
+    background-color: black;
+}
+.acceuil{
+    width: 25%;
+    border: 1px solid black;
+    height: 4420px;
+    background-color: white;
+   
+}
+.header{
+   
+    display: flex;
+    width: 100%;
+    height:70px;
+}
+.menu{
+    width: 50%;
+    display: flex;
+    margin-left: 33%;
+}
+ul{
+    display: flex;
+}
+li{
+    justify-content: space-between;
+    list-style: none;
+    font-size: 15px;
+    margin: 1vw 4vh;
+    width: 7vw;
+     
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+.logo{
+    margin-left: 7%;
+  
+    
+}
+
+.div1{
+    background-image: url("../maquette3/image3/img1.jpeg");
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+    display: flex;
+}
+.txt{
+    width: 25%;
+    justify-content: center;
+    margin-top: 5%;
+    margin-left: 7%;  
+}
+.txt-1{
+    justify-content: center;
+    
+    margin-top: 5%;
+    font-size: 15px;
+    color: green;
+    
+}
+
+.txt-2{
+    justify-content: center;
+    margin-top: 3%;
+    font-size: 60px; 
+} 
+.boutton1{
+    height: 55px;
+    margin-right: 3%;
+    width: 30%;
+    background-color: yellowgreen;
+    border-radius: 15px;
+    margin-top: 2%;
+    
+}
+.div2{
+  
+    width: 90%;
+    margin-left: 5%;
+    display: flex;
+    height: 500px;
+
+    
+}
+.div2-1{
+    width: 45%;
+    border-radius: 20px;
+    margin-left: 3%;
+    background-image: url("../maquette3/image3/i4.jpg");
+    margin-top: 3%;
+    height: 60%;
+    background-size: cover;
+    background-position: center;
+    
+}
+.div2-2{
+    width: 45%;
+    border-radius: 20px;
+    margin-left: 3%;
+    background-image: url("../maquette3/image3/Img.png");
+    margin-top: 3%;
+    height: 60%;
+    background-position: center;
+    background-size: cover;
+}
+
+.txt2{
+    justify-content: space-around;
+}
+.txt2-1{
+    font-size: 35px;
+    color: green;
+}
+.txt2-2{
+    font-size: 20px
+}
+.div2-1{
+    width: 45%;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.div3{
+    width: 90%;
+    height: 800x;
+    display: flex;
+    background-color: #F9F8F8;
+    margin-left: 7%;
+}
+.divIcon{
+    display: flex;
+    justify-content: space-between;
+}
+.div3-1{
+    width: 50%;
+    
+    margin-left: 3%;
+    
+}
+.div3-1 img{
+   width: 50%;
+    height: auto;
+    display: block;
+    margin-left: 5%;
+}
+.txt3{
+    width: 50%;
+    margin-left: 3%;
+}
+.div4{
+    width: 100%;
+    height: 700px;
+    background-image: url("../maquette3/image3/im.jpg");
+    background-position: left;
+   justify-content: center;
+    display: flex;
+    margin-top: 5%;
+   
+}
+.div4-1{
+    width: 50%;
+    
+}
+
+.div4-2{
+    width: 50%;
+    
+
+}
+.div4txt{
+   margin-top: 10%;
+    text-align: center;
+    border: 0.5px solid beige;
+
+}.gauche{
+    display: flex;
+}
+.divb{
+    font-size: 30px;
+    margin-top: 5%;
+
+}
+.cercle{
+    width: 100%;
+    display: flex;
+    margin-top: 15%;
+  justify-content: center;
+}
+.cercle1{
+    background-color:#F1F1F1;
+    border-radius: 50%;
+    width: 130px;
+    height: 90px;
+    margin-left: 2%;
+    text-align: center;
+    padding-top: 3%;
+}
+.div4-3{
+    width: 25%;
+}
+
+.div5-0{
+    background-color: #FFFFFF;
+    margin-left: 90%;
+    height: 400px;
+    width: 70%;
+    border-radius: 15px;   
+}
+.div5{
+    background-image: url("../maquette3/image3/img6.jpg");
+    background-color: #C4C4C4;
+    background-size: cover;
+    background-position: center;
+   height: 600px;
+    width: 50vw;
+    padding-top: 5%;
+    margin-top: 5%;
+    
+}
+.div{
+    margin-left: 15%;
+}
+
+.div6{
+    display: flex;
+    height: 450px;
+    background-color: #F1F8F4;
+    
+}
+.div6-0{
+    background-color:white;
+    font-size: 15px;
+    width: 25%;
+    height: 50px;
+    border-radius: 15px;
+    margin-top: 15%;
+    margin-left: 40%;
+    text-align: center;
+
+    
+}
+.div6-1{
+    background-image: url("../maquette3/image3/img8.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 25vh;
+    width: 32%;
+    margin-top: 5%;
+    
+}
+.div6-2{
+    background-image: url("../maquette3/image3/img7.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 25vh;
+    width: 32%;
+    margin-top: 5%;
+    margin-left: 2%;
+}
+.div6-3{
+    background-image: url("../maquette3/image3/img9.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 25vh;
+    width: 32%;
+    margin-top: 5%;
+    margin-left: 2%;
+}
+.div7{
+    background-image: url("../maquette3/image3/0.png");
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+    margin-left: 5%;
+    height: 30vh;
+    width: 90%;
+    display: flex;
+}
+.div7-1{
+    display: flex;
+    margin-top: 5%;
+    width: 100%;
+    margin-left: 5%;
+}
+.div7-1-0{
+    color:#FFFFFF;
+    font-size: 50px;
+    width: 40%;
+}
+.divInput{
+    display: flex;
+    margin-left: 20%;
+    width: 50%;
+    padding-top: 3%;
+    padding-left: 10%;
+}
+input{
+    height: 40px;
+    margin-right: 3%;
+    width: 35%;
+    border-radius: 15px;
+}
+.divInput2{
+    height: 45px;
+    margin-right: 3%;
+    width: 20%;
+    background-color: midnightblue;
+    border-radius: 15px;
+    margin-top: 2%;
+}
+.div8{
+    width: 100%;
+   
+    height: 500px;
+    margin-top: 5%;
+    
+}
+.div8-{
+    display: flex;
+    width: 100%;
+    
+}
+.div8-1{
+    width: 50%;
+  
+    text-align:right;
+    padding-right: 5%;
+    border-right:1px solid #D4D4D4;
+    
+}
+.div8-2{
+    width: 50%;
+   margin-left: 5%;
+    
+}
+.logo2{
+    display: flex;
+    margin-top: 3%;
+}
+.divb2{
+    margin-top: 1%;
+    margin-left: 1%;
+    font-size: 30px;
+}
+.div8-2-1{
+    margin-top: 3%;
+}
+hr{
+    width: 80%;
+    margin-top: 7%;
+}
+.divf{
+    text-align: center;
+}
+.aPropos{
+    width: 25%;
+    border: 1px solid black;
+    height: 4420px;
+    background-color: white;
+    
+}
+.pdiv1{
+    height: 300px;
+    width: 100%;
+    background-image: url("..//maquette3/image3/i2.png"), url('..//maquette3/image3/i.png');
+    background-position: left top, right top;
+    background-size: 50% auto, 50% auto; 
+    padding-top: 5%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.ptxt1{
+    font-size: 25px;
+    text-align: center;
+}
+
+.ptxt3{
+    width: 50%;
+}
+.pdiv3{
+    display: flex;
+}
+.divimg{
+  
+    margin-left: 15%;
+   
+}
+.icon{
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+
+}
+.pdivIcon{
+    display: flex;
+    width: 50%;
+}
+
+.divc{
+    height: 50px;
+    background-color: #D4D4D4;
+    border-radius: 20px;
+    width: 25%;
+    text-align: center;
+   
+}
+.divctxt{
+    margin-left: 5%;
+    margin-top: 2%;
+}
+.div4img{
+    background-image: url("../maquette3/image3/3.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    width: 45%;
+}
+.pdiv4-1{
+    width: 80%;
+    display: flex;
+    margin-top: 5%;
+    margin-left: 15%;
+}
+.ptxt3{
+    width: 40%;
+    margin-top: 5%;
+}
+.div4ptxt{
+    width: 90%;
+}
+.pdiv4{
+background-color: #F9F8F8;
+display: block;
+height: 870px;
+}
+.pdiv4-2{
+width: 80%;
+display:flex;
+margin-left: 3%;
+background-color: #F9F8F8;
+margin-top: 5%;
+justify-content: center;
+}
+.pdiv4-2-1{
+    width: 20%;
+    text-align: center;
+    align-items: center;
+    background-color: white;
+    margin-left: 2%;
+}
+.pdiv5{
+    background-color: #274C5B;
+    height: 450px;
+    padding-top: 5%;
+}
+.pdiv5-0{
+text-align: center;
+justify-content: center;
+margin-left: 25%;
+width: 60%;
+
+}
+.ptete{
+    margin-left: -15%;
+}
+.images{
+    display: flex;
+    text-align: center;
+    margin-top: 3%;
+}
+.im1{
+    width: 20%;
+    text-align: center;
+    margin-left: 1%;
+}
+.im11{
+    background-image: url("..//maquette3/image3/Photo0.jpg");
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+    height: 250px;
+    width: 80%;
+}
+.im12{
+    background-image: url("..//maquette3/image3/Image9.png");
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+    height: 250px;
+    width: 80%;
+}
+.im13{
+    background-image: url("..//maquette3/image3/Image8.png");
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+    height: 250px;
+    width: 80%;
+}
+.im14{
+    background-image: url("..//maquette3/image3/Image7.png");
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+    height: 250px;
+    width: 80%;
+}
+.p{
+    color: white;
+    font-size: 15px;
+}
+.p1{
+    color: #7EB693;
+    font-size: 15px;
+}
+.p2{
+    font-size: 25px;
+    color: white;
+}
+.pdiv7{
+    background-image: url("../maquette3/image3/0.png");
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+    margin-left: 5%;
+    height: 30vh;
+    width: 90%;
+    
+}
+
+.service{
+    width: 1920px;
+    height: 5800px;
+    border: 1px solid black;
+}
+.contact{
+    width: 1920px;
+    height: 5800px;
+    border: 1px solid black;
+}
+
+.div404{
+    width: 1920px;
+    height: 5800px;
+    border: 1px solid black;
+}
