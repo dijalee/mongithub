@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title> Maquette3</title>
+        <link rel="stylesheet" href="maquette3.css">
+    </head>
+    <body>
+        <div id="container">
+            <div class="acceuil">
+                <div class="header">
+                    <div class="logo">
+                        <div class="gauche">
+                            <a href="www.google.com"><img height="60px" src="./images/Logo.png" alt="Organick"></a>
+                            <div class="divb"><b>Organick</b></div>
+                        </div>
+                    </div>
+                    <div class="menu">
+                        <ul >
+                            <li><a href="#Acceuil">Acceuil</a></li>
+                            <li><a href="#APropos">A Propos</a></li>
+                            <li><a href="#Services">Services</a></li>
+                            <li><a href="#Contacts">Contacts</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="div1" >
+                     <div class="txt">
+                        
+                        <div class="txt-1">
+                            <p><i>100% Aliments naturels</i></p>
+                        </div>
+                        <div class="txt-2">
+                            <p><b>Vis de la façon la plus saine</b></p>
+                        </div>
+                        <div>
+                            <button class="boutton1">Decouvrir</button>
+                        </div>
+                    </div> 
+                </div>
+                <div class="div2">
+                    <div class="div2-1">
+                        <div class="txt2">
+                            <div class="txt2-1">
+                                <p><i>Naturel!!</i></p>
+                            </div>
+                            <div class="txt2-2">
+                                <p><b>Obtenez des fruits fraits du jardin</b></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="div2-2">
+                        <div class="txt2">
+                            <div class="txt2-1">
+                                <p><i>Offre!!</i></p>
+                            </div>
+                            <div class="txt2-2">
+                                <p><b>Obtenez 10% de reductions sur legumes</b></p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+                <div class="div3">
+                    <div class="div3-1"><img src="./image3/Photo.png"  height="50%"></div> 
+                    <div class="txt3">
+                        <div class="txt3-1">
+                            <p>A propos de nous</p>
+                        </div>
+                        <div class="txt3-2">
+                            <p><b>Nous croyons au travail Agriculteurs écrédités</b></p>
+                        </div>
+                        <div class="txt3-3">
+                            <p>Simply dummy text of the printing and typesetting industry. Lorem had ceased to 
+                                been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.</p>
+                        </div>
+                        <div class="divIcon">
+                            <div><img src="./image3/Icon.png" alt=""></div>
+                            <div>
+                                <div>Aliments bio uniquement</div>
+                                <div>Simply dummy text of the printing and typesetting industry. Lorem Ipsum</div>
+                            </div>
+                        </div>
+                        <div class="divIcon">
+                            <img src="./image3/Group 2.svg" alt="">
+                            <div>
+                                <div>Normes de quailtes</div>
+                                <div>Simply dummy text of the printing and typesetting industry. Lorem Ipsum</div>
+                            </div>
+                        </div>
+                        <div class="txt3-4"></div>
+                        <div><button class="divInput2">A propos de nous</button></div>
+                    </div>
+                </div>
+                <div class="div4">
+                    <!-- <div class="div4-1"><img src="./image3/Photo5.png" height="700px" width="50%"></div> -->
+                    <div class="div4-2">
+                        <div class="div4txt">
+                            <div><p>Temoignages</p></div>
+                            <div><b>Que dire de nos clients</b></div>
+                            <div><img src="./image3/Image6.png" alt=""></div>
+                            <div><img src="./image3/Star.svg" alt=""></div>
+                            <div>Simply dummy text of the printing and typesetting industry. Lorem Ipsum simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.</div>
+                            <div>Sara Tylor</div>
+                            <div>Consommatrice</div>
+                        </div>
+                        <div class="cercle">
+                            <div class="cercle1"><b>100%</b> <br>Bio</div>
+                            <div class="cercle1"><b>285</b> <br>produit actif</div>
+                            <div class="cercle1"><b>350+</b> <br>Vergers biologiques</div>
+                            <div class="cercle1"><b>25+</b> <br>Annee d'agricultures</div>
+                        </div>
+                    </div>
+                   <!--  <div class="div4-3"><img src="./image3/Phot5-1o.png" height="700px" width="75%"alt=""></div> -->
+                </div>
+                <div class="div5">
+                    <div class="div5-0">
+                        <div class="div">
+                            <div>couleur de la nature</div>
+                            <h2><b>Ecoris est Votre magasin bio</b></h2>
+                            <div>Sed ut perspiciatis unde omnis iste natus error sit voluptat accusantium doloremque laudantium. Sed ut perspiciatis.</div>
+                            <h4>Apprenez a vous deveoper</h4>
+                            <div>Sed ut perspiciatis unde omnis iste natus error sit voluptat accusantium doloremque laudantium. Sed ut perspiciatis.</div>
+                            <h4>Strategies agricole d'aujourd'huit</h4>
+                            <div>Sed ut perspiciatis unde omnis iste natus error sit voluptat accusantium doloremque laudantium. Sed ut perspiciatis.</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="div6">
+                   
+                        <div class="div6-1">
+                            <div class="div6-0">Jus naturel</div>
+                        </div>
+                        <div class="div6-2">
+                            <div class="div6-0">Aliment bio</div>
+                        </div>
+                        <div class="div6-3">
+                            <div class="div6-0">Biscuits aux noix</div>
+                        </div>
+                  
+                </div>
+                <div class="div7">
+                    <div class="div7-1">
+                        <div class="div7-1-0">S'inscrire a notre Newslatter</div>
+                        <div class="divInput">
+                            <input type="text" placeholder="Votre email"/> 
+                            <button class="divInput2">S'inscrire</button>
+                        </div>
+                    </div>
+                    </div>
+                <div class="div8">
+                    <div class="div8-">
+                        <div class="div8-1">
+                            <h4><b>Contacts</b></h4>
+                            <h4><b>Email</b></h4>
+                            <p>organick@gmail.com</b>
+                            <h4>Téléphone</h4>
+                            <p>777777777</p>
+                            <h4>Adresse</h4>
+                            <p>Point E</p>
+                        </div>
+                        <div class="div8-2">
+                            <div class="logo2">
+                                <a href="www.google.com"><img height="60px" src="./images/Logo.png" alt="Organick"></a>
+                                <div class="divb2"><b>Organick</b></div>
+                            </div>
+                            <div class="div8-2-1"> le gout du delicieux</div>
+                            <div><img src="./image3/Follow.png" alt=""></div>    
+                        </div>
+                    </div>
+                <hr>
+                <div class="divf">Copyright © Organick | Designed by sbd-wp</div>
+               </div>
+            </div>
+            <div class="aPropos">
+                <div class="header">
+                    <div class="logo">
+                        <div class="gauche">
+                            <a href="www.google.com"><img height="60px" src="./images/Logo.png" alt="Organick"></a>
+                            <div class="divb"><b>Organick</b></div>
+                        </div>
+                    </div>
+                    <div class="menu">
+                        <ul >
+                            <li><a href="#Acceuil">Acceuil</a></li>
+                            <li><a href="#APropos">A Propos</a></li>
+                            <li><a href="#Services">Services</a></li>
+                            <li><a href="#Contacts">Contacts</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="pdiv1" >
+                    <div class="ptxt1">A propos de nous</div> 
+                </div>
+                
+                <div class="pdiv3">
+                
+                    <div class="divimg">
+                        <div><img src="./image3/i3.png" height="500px"></div> 
+                    </div>
+                   
+                    <div class="ptxt3">
+                        <div class="txt3-1">
+                            <p>A propos de nous</p>
+                        </div>
+                        <div class="txt3-2">
+                            <p><b>Creative pour le succes</b></p>
+                        </div>
+                        <div class="txt3-3">
+                            <p>imply dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.</p>
+                            <p></p>
+                            <p>Simply dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley..</p>
+                        </div>
+                        <div class="icon">
+                            <div class="pdivIcon">
+                               
+                                <div><img src="./image3/Icon.svg" alt=""></div>
+                                <div><b>Équipement moderne</b></div>
+                                
+                            </div>
+                            <div class="pdivIcon">
+                                
+                                <div><img src="./image3/Icon1.svg" alt=""></div>
+                                <div><b>Pas d-hormone de croissance</b></div>
+                                
+                            </div>
+                        </div>
+                    
+                    </div>
+                </div>
+                <div class="pdiv4">
+                    <div class="pdiv4-1">
+                        <div class="ptxt3">
+                            <div class="div4ptxt">
+                                <div class="txt3-1">
+                                    <p>Pourquoi nous choisir?</p>
+                                </div>
+                                <div class="txt3-2">
+                                    <p><b>Nous n'achetons pas aux marchés libres et commerçants.</b></p>
+                                </div>
+                                <div class="txt3-3">
+                                    <p>Simply dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard  the 1500s, when an unknown</p>
+                                </div>
+                                <div class="div4c">
+                                    <div class="divc">100% Produit naturel</div>
+                                    <div class="divctxt">Simply dummy text of the printing and typesetting industry Lorem Ipsum</div>
+                                    <div class="divc">Augmente la resistence</div>
+                                    <div class="divctxt">Filling, and temptingly healthy, our Biona Organic Granola with Wild Berries is just the thing</div>
+                                </div>
+                                
+                            </div>
+                        </div> 
+                        <div class="div4img"></div>
+                    </div>
+                    <div class="pdiv4-2">
+                        <div class="pdiv4-2-1">
+                            <img src=".//image3/icon1.png" alt="">
+                            <p><b>Politique de retour</b></p>
+                            <div>Simply dummy text of the printintypesetting industry.</div>
+                        </div>
+                        <div class="pdiv4-2-1">
+                            <img src=".//image3/Icon2.png" alt="">
+                            <p><b>100% Frais</b></p>
+                            <div>Simply dummy text of the printintypesetting industry.</div>
+                        </div>
+                        <div class="pdiv4-2-1">
+                            <img src=".//image3/Icon3.png" alt="">
+                            <p><b>24/7</b></p>
+                            <div>Simply dummy text of the printintypesetting industry.</div>
+                        </div>
+                        <div class="pdiv4-2-1">
+                            <img src=".//image3/Icon4.png" alt="">
+                            <p><b>Paiement securise</b></p>
+                            <div>Simply dummy text of the printintypesetting industry.</div>
+                        </div>
+                    </div>  
+                </div>
+                <div class="pdiv5">
+                    <div class="pdiv5-0">
+                        <div class="ptete">
+                            <div class="p1"><i>A propos de nous</i></div>
+                            <div class="p2"><b>Ce que nous offrons</b></div>
+                        </div>
+                        <div class="images">
+                            <div class="im1">
+                                <div class="im11"></div>
+                                <div class="p">epice</div>
+                            </div>
+                            <div class="im1">
+                                <div class="im12"></div>
+                                <div class="p">noix et aliments</div>
+                            </div>
+                            <div class="im1">
+                                <div class="im13"></div>
+                                <div class="p">Fruits</div>
+                            </div>
+                            <div class="im1">
+                                <div class="im14"></div>
+                                <div class="p">Legumes</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="pdiv7">
+                    <div class="div7-1">
+                        <div class="div7-1-0">S'inscrire a notre Newslatter</div>
+                        <div class="divInput">
+                            <input type="text" placeholder="Votre email"/> 
+                            <button class="divInput2">S'inscrire</button>
+                        </div>
+                    </div>
+                    </div>
+                <div class="div8">
+                    <div class="div8-">
+                        <div class="div8-1">
+                            <h4><b>Contacts</b></h4>
+                            <h4><b>Email</b></h4>
+                            <p>organick@gmail.com</b>
+                            <h4>Téléphone</h4>
+                            <p>777777777</p>
+                            <h4>Adresse</h4>
+                            <p>Point E</p>
+                        </div>
+                        <div class="div8-2">
+                            <div class="logo2">
+                                <a href="www.google.com"><img height="60px" src="./images/Logo.png" alt="Organick"></a>
+                                <div class="divb2"><b>Organick</b></div>
+                            </div>
+                            <div class="div8-2-1"> le gout du delicieux</div>
+                            <div><img src="./image3/Follow.png" alt=""></div>    
+                        </div>
+                    </div>
+                <hr>
+                <div class="divf">Copyright © Organick | Designed by sbd-wp</div>
+               </div>
+                
+            </div>
+            <div class="services">
+
+            </div>
+            <div class="contact">
+
+            </div>
+            <div class="div404">
+
+            </div>
+        </div>
+    </body>
+</html>
